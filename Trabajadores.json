@@ -1,0 +1,34 @@
+{
+  "myArrayList": [
+    {
+      "nombre": "asd",
+      "apellido_paterno": "asd",
+      "apellido_materno": "asd",
+      "rut": 213,
+      "tipo_contrato": "Full-time",
+      "salario": 23,
+      "fecha_de_nacimiento": "23",
+      "departamento": "asd"
+    },
+    {
+      "nombre": "dsa",
+      "apellido_paterno": "dsa",
+      "apellido_materno": "dsa",
+      "rut": 321,
+      "tipo_contrato": "Full-time",
+      "salario": 54,
+      "fecha_de_nacimiento": "234",
+      "departamento": "dsa"
+    },
+    {
+      "nombre": "hjk",
+      "apellido_paterno": "hkj",
+      "apellido_materno": "hjk",
+      "rut": 31,
+      "tipo_contrato": "Full-time",
+      "salario": 5678587,
+      "fecha_de_nacimiento": "435",
+      "departamento": "vghghn"
+    }
+  ]
+}
